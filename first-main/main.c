@@ -1,3 +1,5 @@
+// this is a script for testing %
+// the negative valus can do % and it is negative if the first param is negative
 #include <math.h>
 #include <stdio.h>
 int main()
